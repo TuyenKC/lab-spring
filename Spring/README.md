@@ -1,6 +1,14 @@
 Lab for Spring:
-    -
-    -
-    -
-    -
-    -
+    - Dependency Injection (DI)
+    - Spring Bean Scope
+    - Bean Lifecycle
+    - Spring Configuration
+    - Spring Profiles
+    - Event Handling in Spring
+    - Aspect-Oriented Programming (AOP)
+    - Spring Expression Language (SpEL)
+    - Externalized Configuration
+    - Spring FactoryBeans
+    - Bean Validation
+    - Spring Core Test
+    - Spring Resource Loading
