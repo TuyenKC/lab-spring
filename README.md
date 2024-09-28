@@ -1,5 +1,5 @@
 Lab Spring:
-    Spring
-    Hibernate
-    CDI
-    JPA
+    - Spring
+    - Hibernate
+    - CDI
+    - JPA
